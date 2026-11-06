@@ -15,3 +15,6 @@ yang dimigrasi dari server lokal ke AWS Cloud.
 - Developer: @developer-a
 - Tester / QA: @tester-a
 - Operations: @ops-lead
+
+## Fix Log
+- v1.1 - Perbaiki validasi pembayaran UKT
